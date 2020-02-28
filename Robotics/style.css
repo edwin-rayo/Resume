@@ -1,0 +1,9 @@
+body{
+  color:black;
+  margin-left: 450px;
+  background-color: gray;
+}
+.profile-pic{
+  height:200px;
+  width:200px;
+}
